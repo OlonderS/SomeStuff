@@ -1,0 +1,31 @@
+﻿using DDD.CarRental.Core.DomainModelLayer.Models;
+using DDD.SharedKernel.DomainModelLayer.Implementations;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DDD.CarRental.Core.InfrastructureLayer.EF.EntityConfigurations
+{
+    public class MoneyConfoguration : IEntityTypeConfiguration<Money>
+    {
+        public void Configure(EntityTypeBuilder<Money> scoreConfiguration)
+        {
+            // Obiekty typu Value Object są rozróżnialne na podstawie wartości swoich swoich atrybutów.
+            // Nie ma zatem potrzeby aby posiadały unikalny identyfikator (Id).
+            // Jeśli chcemy takie obiekty mapować do oddzielnych tabel, taki identyfikator jest jednak potrzebny (będzie pełnił rolę klucza).
+            // Dodawanie identyfikatora do klasy Value Object nie jest eleganckim rozwiązaniem.
+            // Na szczęście Entity Framework dzięki Fluent API pozwala na dodanie do tabeli ukrytego pola Id (tzw. shadow property).
+            // Takie pole będzie istniało w tabeli w bazie danych, ale nie bedzie miało odpowiednika w klasach modelu. 
+
+            // dodawanie pola Id
+            scoreConfiguration.Property<long>("Id").IsRequired();
+
+            // ustawianie klucza głównego
+            scoreConfiguration.HasKey("Id");
+        }
+    }
+}

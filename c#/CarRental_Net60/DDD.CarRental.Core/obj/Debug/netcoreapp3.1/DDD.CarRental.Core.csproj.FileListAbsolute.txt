@@ -1,0 +1,12 @@
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\bin\Debug\netcoreapp3.1\DDD.CarRental.Core.deps.json
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\bin\Debug\netcoreapp3.1\DDD.CarRental.Core.dll
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.csprojAssemblyReference.cache
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.AssemblyInfoInputs.cache
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.AssemblyInfo.cs
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\bin\Debug\netcoreapp3.1\DDD.CarRental.Core.pdb
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.dll
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.pdb
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\bin\Debug\netcoreapp3.1\DDD.SharedKernel.dll
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\bin\Debug\netcoreapp3.1\DDD.SharedKernel.pdb
+D:\Dysk OneDrive\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Student\Wzorce projektowe\CarRental\DDD.CarRental.Core\obj\Debug\netcoreapp3.1\DDD.CarRental.Core.csproj.CopyComplete

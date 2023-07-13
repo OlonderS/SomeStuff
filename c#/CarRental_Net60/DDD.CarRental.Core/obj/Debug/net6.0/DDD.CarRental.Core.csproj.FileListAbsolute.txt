@@ -1,0 +1,120 @@
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Domek\Desktop\wzorce\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Piotr\source\repos\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\nowy\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+C:\Users\KarolG\Desktop\wzorce-main\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+C:\Users\Piotr\source\repos\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\v2\wzorce-main(1)\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.deps.json
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.dll
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\bin\Debug\net6.0\DDD.SharedKernel.pdb
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.AssemblyReference.cache
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfoInputs.cache
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.AssemblyInfo.cs
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CoreCompileInputs.cache
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.csproj.CopyComplete
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.dll
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\refint\DDD.CarRental.Core.dll
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\DDD.CarRental.Core.pdb
+D:\wzorce\v2\projekt\CarRental_Net60\DDD.CarRental.Core\obj\Debug\net6.0\ref\DDD.CarRental.Core.dll

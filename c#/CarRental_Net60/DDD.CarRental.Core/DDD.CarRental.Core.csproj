@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ApplicationLayer\DomainEventHandlers\**" />
+    <EmbeddedResource Remove="ApplicationLayer\DomainEventHandlers\**" />
+    <None Remove="ApplicationLayer\DomainEventHandlers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ApplicationLayer\DomainEventHandlers\" />
+    <Folder Include="DomainModelLayer\Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DDD.SharedKernel\DDD.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>

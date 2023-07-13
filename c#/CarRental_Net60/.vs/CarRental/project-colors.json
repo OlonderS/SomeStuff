@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31e94b56-9325-4a01-b628-6f0b59e29525": {
+      "ProjectGuid": "31e94b56-9325-4a01-b628-6f0b59e29525",
+      "DisplayName": "DDD.CarRental.Core",
+      "ColorIndex": 0
+    },
+    "ad40b11b-1f37-4a94-a249-62831e48f96d": {
+      "ProjectGuid": "ad40b11b-1f37-4a94-a249-62831e48f96d",
+      "DisplayName": "DDD.CarRental.ConsoleTest",
+      "ColorIndex": 1
+    },
+    "245c2fb7-025b-474b-a9e4-0b9894a437d6": {
+      "ProjectGuid": "245c2fb7-025b-474b-a9e4-0b9894a437d6",
+      "DisplayName": "DDD.SharedKernel",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
